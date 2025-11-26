@@ -77,11 +77,3 @@ margin: 0;
 }p{
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: ghostwhite}
-img{
-    width: 800px;
-     border: 4px solid gainsboro;
-    border-radius: 30px;
-}
-div{
-    text-align: center;
-}
